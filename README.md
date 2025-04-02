@@ -170,16 +170,3 @@ Get started with Monadscore Bot by registering through the link below:
    ```
    > 🚀 _Your referral generation process will begin immediately!_
 
----
-
-## 🤝 Contributing
-
-This project is developed by **Livexords**. If you have suggestions, questions, or would like to contribute, please reach out:
-
-<div align="center">
-  <a href="https://t.me/mrptechofficial" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Livexords&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram Logo" />
-  </a>
-</div>
-
----
