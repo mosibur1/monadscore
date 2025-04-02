@@ -51,8 +51,8 @@ class monadscore:
     def banner(self) -> None:
         """Displays the banner for the bot."""
         self.log("🎉 Monad Score Free Bot", Fore.CYAN)
-        self.log("🚀 Created by LIVEXORDS", Fore.CYAN)
-        self.log("📢 Channel: t.me/livexordsscript\n", Fore.CYAN)
+        self.log("🚀 Created by MRPTech", Fore.CYAN)
+        self.log("📢 Channel: https://t.me/mrptechofficial\n", Fore.CYAN)
 
     def log(self, message, color=Fore.RESET):
         safe_message = message.encode("utf-8", "backslashreplace").decode("utf-8")
