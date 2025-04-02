@@ -76,7 +76,7 @@
 Get started with Monadscore Bot by registering through the link below:
 
 <div align="center">
-  <a href="https://monadscore.xyz/signup/r/JioRgBeR" target="_blank">
+  <a href="https://monadscore.xyz/signup/r/d9Uhcrm7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Monadscore&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram Logo" />
   </a>
 </div>
@@ -91,7 +91,7 @@ Get started with Monadscore Bot by registering through the link below:
    Copy the project to your local machine:
 
    ```bash
-   git clone https://github.com/livexords-nw/monadscore-bot.git
+   git clone https://github.com/mosibur1/monadscore.git
    ```
 
    > 💡 _Tip: Ensure you have Git installed on your machine!_
@@ -100,7 +100,7 @@ Get started with Monadscore Bot by registering through the link below:
    Move into the project directory:
 
    ```bash
-   cd monadscore-bot
+   cd monadscore
    ```
 
 3. **Install Dependencies**  
@@ -156,9 +156,9 @@ Get started with Monadscore Bot by registering through the link below:
    **Example content:**
 
    ```
-   https://monadscore.xyz/signup/r/JioRgBeR|5
-   https://monadscore.xyz/signup/r/JioRgBeR|5
-   https://monadscore.xyz/signup/r/JioRgBeR|5
+   https://monadscore.xyz/signup/r/d9Uhcrm7|5
+   https://monadscore.xyz/signup/r/d9Uhcrm7|5
+   https://monadscore.xyz/signup/r/d9Uhcrm7|5
    ```
 
    > 💡 _Tip: You can add as many lines as needed. Successful referral wallet addresses will be stored in `result_reff.txt` automatically._
@@ -177,7 +177,7 @@ Get started with Monadscore Bot by registering through the link below:
 This project is developed by **Livexords**. If you have suggestions, questions, or would like to contribute, please reach out:
 
 <div align="center">
-  <a href="https://t.me/livexordsscript" target="_blank">
+  <a href="https://t.me/mrptechofficial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Livexords&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" alt="Telegram Logo" />
   </a>
 </div>
