@@ -371,7 +371,7 @@ async def main():
         proxies = monad.load_proxies()
 
     monad.log(
-        "🎉 [LIVEXORDS] === Welcome to Monad Score Automation === [LIVEXORDS]", Fore.YELLOW
+        "🎉 [MRPTech] === Welcome to Monad Score Automation === [MRPTech]", Fore.YELLOW
     )
     monad.log(f"📂 Loaded {len(all_accounts)} accounts from query list.", Fore.YELLOW)
 
